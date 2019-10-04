@@ -55,7 +55,7 @@ h1 {
 
 }
 
-h2 {
+h2, h3 {
 	text-transform: uppercase;
 	font-family: "Raleway", sans-serif;
 	color: #0D2C40;
@@ -110,4 +110,13 @@ font-size: 0;
 .name {
 	color: #F15B31;
 	font-weight: 700;
+}
+
+.initials {
+	color: #00A6b3;
+	font-weight: 700;
+}
+
+.heart {
+	color: #FF0000;
 }
